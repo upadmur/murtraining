@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-Hello how ar you ?
-I am fine thank you
-Hello how are you ?
-I am fine thank you
-bye thank you
->>>>>>> b30cc8eb0bb13525ccaad9ade9be7911b5aba683
