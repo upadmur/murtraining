@@ -19,4 +19,4 @@ git checkout [-f|--ours|--theirs|-m|--conflict=<style>] [<tree-ish>] [--] <paths
 git checkout [<tree-ish>] [--] <pathspec>…​
 git checkout (-p|--patch) [<tree-ish>] [--] [<paths>…​]
 
-my name is Murali
+
